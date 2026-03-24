@@ -1,20 +1,20 @@
-def player_summary(name, goals, assists):
-    print(f"{name} has {goals} goals and {assists} assists.")
+def match_summary(match_name, tickets_sold, revenue):
+    print(f"{match_name} sold {tickets_sold} tickets and generated {revenue} in revenue.")
 
 
-def movie_summary(title, year):
-    print(f"{title} was released in {year}.")
+def customer_summary(customer_id, segment):
+    print(f"Customer {customer_id} belongs to the {segment} segment.")
 
 
-def total_points(points_list):
+def total_revenue(revenue_list):
     total = 0
-    for points in points_list:
-        total = total + points
+    for revenue in revenue_list:
+        total = total + revenue
     return total
 
 
-player_summary("Mbappe", 28, 7)
-movie_summary("Interstellar", 2014)
+match_summary("Morocco vs France", 42000, 2751000)
+customer_summary(1001, "subscriber")
 
-game_points = [24, 31, 18, 27]
-print(total_points(game_points))
+match_revenues = [120000, 85000, 210000, 95000]
+print(total_revenue(match_revenues))

@@ -1,24 +1,24 @@
-goals_scored = 9
+tickets_sold = 42000
 
-if goals_scored >= 10:
-    print("Great scoring season")
+if tickets_sold >= 50000:
+    print("Strong ticket sales")
 else:
-    print("Needs more goals")
+    print("Sales below target")
 
-match_goals = [2, 1, 0, 3, 1]
+daily_ticket_sales = [3200, 4100, 3800, 4600, 5200]
 
-for goals in match_goals:
-    print(goals)
+for sales in daily_ticket_sales:
+    print(sales)
 
-movies = ["Interstellar", "Inception", "Gladiator"]
+matches = ["Morocco vs France", "Morocco vs Spain", "France vs Spain", "Spain vs Brazil"]
 
-for movie in movies:
-    print(movie)
+for match in matches:
+    print(match)
 
-points = [24, 31, 18, 27]
+channel_revenue = [120000, 85000, 210000, 95000]
 
-for point_total in points:
-    if point_total >= 25:
-        print("Strong game")
+for revenue in channel_revenue:
+    if revenue >= 100000:
+        print("High-performing sales channel")
     else:
-        print("Average game")
+        print("Standard-performing sales channel")

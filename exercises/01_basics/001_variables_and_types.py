@@ -1,20 +1,17 @@
-favorite_player = "Lamine Yamal"
-favorite_movie = "Interstellar"
-favorite_nba_team = "Lakers"
+match_name = "Morocco vs France"
+stadium_name = "National Stadium"
+tickets_sold = 42000
+average_ticket_price = 65.50
+is_sold_out = False
 
-goals_this_season = 14
-movie_rating = 8.7
-is_starter = True
+print(match_name)
+print(stadium_name)
+print(tickets_sold)
+print(average_ticket_price)
+print(is_sold_out)
 
-print(favorite_player)
-print(favorite_movie)
-print(favorite_nba_team)
-
-print(goals_this_season)
-print(movie_rating)
-print(is_starter)
-
-print(type(favorite_player))
-print(type(goals_this_season))
-print(type(movie_rating))
-print(type(is_starter))
+print(type(match_name))
+print(type(stadium_name))
+print(type(tickets_sold))
+print(type(average_ticket_price))
+print(type(is_sold_out))

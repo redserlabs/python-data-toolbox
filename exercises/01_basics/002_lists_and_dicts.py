@@ -1,36 +1,36 @@
-top_scorers = ["Mbappe", "Haaland", "Kane"]
-favorite_movies = ["Interstellar", "The Dark Knight", "Whiplash"]
-nba_players = ["LeBron James", "Stephen Curry", "Jayson Tatum"]
+upcoming_matches = ["Morocco vs France", "Morocco vs Spain", "France vs Spain", "Spain vs Brazil"]
+customer_segments = ["individual", "partner", "subscriber"]
+sales_channels = ["website", "mobile_app", "box_office"]
 
-print(top_scorers)
-print(favorite_movies)
-print(nba_players)
+print(upcoming_matches)
+print(customer_segments)
+print(sales_channels)
 
-print(top_scorers[0])
-print(favorite_movies[-1])
+print(upcoming_matches[0])
+print(customer_segments[-1])
 
-player_stats = {
-    "name": "Mbappe",
-    "goals": 28,
-    "assists": 7,
-    "club": "Real Madrid"
+ticketing_summary = {
+    "match_name": "Morocco vs France",
+    "stadium": "National Stadium",
+    "tickets_sold": 42000,
+    "average_ticket_price": 65.50
 }
 
-movie_info = {
-    "title": "Interstellar",
-    "year": 2014,
-    "genre": "Sci-Fi"
+customer_profile = {
+    "customer_id": 1001,
+    "segment": "subscriber",
+    "country": "Morocco"
 }
 
-basketball_stats = {
-    "player": "LeBron James",
-    "points_per_game": 25.3,
-    "team": "Lakers"
+sales_report = {
+    "channel": "website",
+    "orders": 18500,
+    "revenue": 1215000
 }
 
-print(player_stats)
-print(player_stats["name"])
-print(player_stats["club"])
+print(ticketing_summary)
+print(ticketing_summary["match_name"])
+print(ticketing_summary["tickets_sold"])
 
-print(movie_info["title"])
-print(basketball_stats["player"])
+print(customer_profile["segment"])
+print(sales_report["revenue"])

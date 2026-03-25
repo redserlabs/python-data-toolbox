@@ -1,0 +1,6 @@
+MATCH TICKET REPORT
+-------------------
+Match: Morocco vs France
+Stadium: Stade Mohammed V
+Total tickets sold: 28150
+Total revenue: 3494500 MAD

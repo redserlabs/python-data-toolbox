@@ -1,0 +1,5 @@
+SALES SUMMARY
+-------------
+Total customers: 4
+Total tickets sold: 10
+Total revenue: 1250 MAD

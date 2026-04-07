@@ -1,0 +1,31 @@
+issue_id,issue_number,title,state,created_at,updated_at,user_login,comments
+4218684145,308230,WAY too many requests to allow something obvious,open,2026-04-07 15:15:37+00:00,2026-04-07 15:15:37+00:00,MarcSchluperAtIntel,0
+4218680755,308229,Window keeps freezing,open,2026-04-07 15:15:03+00:00,2026-04-07 15:15:03+00:00,jhaase1,0
+4218674628,308228,missing package-lock changes,open,2026-04-07 15:13:57+00:00,2026-04-07 15:17:14+00:00,joaomoreno,1
+4218617116,308227,?,open,2026-04-07 15:04:31+00:00,2026-04-07 15:04:31+00:00,AmrGharibx,0
+4218579314,308226,"i have a problem with my chat on code space, i cant speak because is stuk",open,2026-04-07 14:58:01+00:00,2026-04-07 14:58:34+00:00,briceT2f,1
+4218496769,308225,Claude not usable anymore,open,2026-04-07 14:47:19+00:00,2026-04-07 14:47:19+00:00,Stoic-Flow,0
+4218360697,308223,Makes fixtures more stable,open,2026-04-07 14:26:42+00:00,2026-04-07 15:09:26+00:00,hediet,0
+4218318319,308221,Manual GPT-5.4 selection falls back to another model and does not return automatically,open,2026-04-07 14:19:55+00:00,2026-04-07 14:45:43+00:00,yguirado88,0
+4218195351,308219,hanging on fetching PDF url that saved to downloads,open,2026-04-07 14:01:32+00:00,2026-04-07 14:45:45+00:00,ryanrocket,1
+4218187128,308218,fucking annoying you idiots ,open,2026-04-07 14:00:20+00:00,2026-04-07 14:45:47+00:00,satyboii,0
+4218132321,308217,Shows Welcome Page on Startup even if disabled.,open,2026-04-07 13:51:39+00:00,2026-04-07 15:06:30+00:00,ThatOneUntitledProgrammer,0
+4218093930,308216,Agents: Custom agents are not shown,open,2026-04-07 13:45:51+00:00,2026-04-07 13:46:40+00:00,sandy081,0
+4218029391,308214,Chat input btn flicker as I type,open,2026-04-07 13:35:41+00:00,2026-04-07 13:36:32+00:00,jrieken,0
+4217988307,308213,Export Chat truncates file to 0 bytes when disk is full instead of failing gracefully,open,2026-04-07 13:28:34+00:00,2026-04-07 14:42:11+00:00,iyernaveenr,0
+4217965890,308212,sdasdasd,open,2026-04-07 13:24:36+00:00,2026-04-07 13:42:43+00:00,rutvikcodingdolar246-ops,0
+4217955027,308211,add logging,open,2026-04-07 13:22:43+00:00,2026-04-07 13:25:48+00:00,sandy081,1
+4217937778,308210,Logout,open,2026-04-07 13:19:53+00:00,2026-04-07 13:42:46+00:00,aguilarvillagrandiana29-collab,0
+4217840212,308207,update.titleBar setting no longer recognized and doesn't work,open,2026-04-07 13:02:30+00:00,2026-04-07 13:42:49+00:00,Kvan7,1
+4217828022,308206,Cropped install btn,open,2026-04-07 13:00:40+00:00,2026-04-07 13:01:34+00:00,jrieken,0
+4217810163,308205,[Mac] Unable to input a backslash in the terminal using the fish shell with a Japanese keyboard,open,2026-04-07 12:57:53+00:00,2026-04-07 13:42:51+00:00,kzrnm,0
+4217798764,308204,Error serializing chat session for storage. The session will be lost if the window is closed. Please report this issue to the VS Code team:,open,2026-04-07 12:56:03+00:00,2026-04-07 13:42:54+00:00,samvardani,0
+4217735711,308203,report 2,open,2026-04-07 12:44:58+00:00,2026-04-07 13:42:56+00:00,samvardani,0
+4217722391,308202,所有 bog,open,2026-04-07 12:42:33+00:00,2026-04-07 13:42:58+00:00,simatao-cpu,0
+4217642187,308201,Unnatural Rate Limiting,open,2026-04-07 12:28:41+00:00,2026-04-07 12:40:32+00:00,vhxma,0
+4217634758,308200,Chat is unresponsive,open,2026-04-07 12:27:18+00:00,2026-04-07 12:40:39+00:00,GloryFlory,1
+4217606586,308199,GitHub Copilot Broken this Morning,open,2026-04-07 12:21:54+00:00,2026-04-07 12:48:29+00:00,qwtm,1
+4217568796,308198,Feature Request: Add a setting to configure the default agent (Agent/Plan/Ask) for new chat sessions,open,2026-04-07 12:14:24+00:00,2026-04-07 12:45:12+00:00,markusfalk,0
+4217508641,308196,sunm,open,2026-04-07 12:02:17+00:00,2026-04-07 12:40:48+00:00,eriperdana598-netizen,0
+4217418517,308194,Broken serialization,open,2026-04-07 11:44:54+00:00,2026-04-07 12:40:51+00:00,rohodragon,0
+4217376994,308193,Multiple instance of VS code is loaded when enabling powershell as default terminal in Windows,open,2026-04-07 11:37:04+00:00,2026-04-07 12:40:53+00:00,flexdevguy,0
